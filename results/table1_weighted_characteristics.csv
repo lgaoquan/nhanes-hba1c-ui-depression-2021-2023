@@ -1,0 +1,29 @@
+"characteristic","level","group","estimate","se"
+"Age, years","Mean (SE)","PHQ-9 <10",55.7123566375536,0.553134280223011
+"BMI, kg/m2","Mean (SE)","PHQ-9 <10",30.5762701154948,0.259176521194753
+"HbA1c, %","Mean (SE)","PHQ-9 <10",5.71847877586439,0.0330666531746119
+"PHQ-9 total score","Mean (SE)","PHQ-9 <10",3.08291220746813,0.0691852510561059
+"race_group","race_groupNon-Hispanic White","PHQ-9 <10",0.704662634234534,0.0184378616954325
+"race_group","race_groupHispanic","PHQ-9 <10",0.121810042408729,0.0210640258795234
+"race_group","race_groupNon-Hispanic Black","PHQ-9 <10",0.0953382551641305,0.0188632479611441
+"race_group","race_groupOther/multiracial","PHQ-9 <10",0.0781890681926069,0.00776650304027613
+"diabetes_status","diabetes_statusNo diagnosed diabetes","PHQ-9 <10",0.84542949702918,0.0145825850845161
+"diabetes_status","diabetes_statusBorderline diabetes","PHQ-9 <10",0.0344111580482432,0.00479186078365187
+"diabetes_status","diabetes_statusDiagnosed diabetes","PHQ-9 <10",0.120159344922576,0.0147910395287243
+"hba1c_group","hba1c_group<5.7%","PHQ-9 <10",0.609934074306121,0.0118861027817098
+"hba1c_group","hba1c_group5.7-<6.5%","PHQ-9 <10",0.300074893666737,0.0126913016402326
+"hba1c_group","hba1c_group>=6.5%","PHQ-9 <10",0.0899910320271416,0.012557482157241
+"Age, years","Mean (SE)","PHQ-9 >=10",49.5940862348223,1.06473898038745
+"BMI, kg/m2","Mean (SE)","PHQ-9 >=10",33.5796306935963,0.569616784070585
+"HbA1c, %","Mean (SE)","PHQ-9 >=10",5.99389742957224,0.126041053746456
+"PHQ-9 total score","Mean (SE)","PHQ-9 >=10",13.8908088955708,0.324398321717742
+"race_group","race_groupNon-Hispanic White","PHQ-9 >=10",0.636295462552676,0.0376261527465893
+"race_group","race_groupHispanic","PHQ-9 >=10",0.166873310084447,0.0369998752725601
+"race_group","race_groupNon-Hispanic Black","PHQ-9 >=10",0.100122589962298,0.0380751060845538
+"race_group","race_groupOther/multiracial","PHQ-9 >=10",0.0967086374005798,0.0214254855496089
+"diabetes_status","diabetes_statusNo diagnosed diabetes","PHQ-9 >=10",0.755484018250161,0.0339233277064339
+"diabetes_status","diabetes_statusBorderline diabetes","PHQ-9 >=10",0.0460970620461139,0.0179667759428341
+"diabetes_status","diabetes_statusDiagnosed diabetes","PHQ-9 >=10",0.198418919703725,0.0328635618257696
+"hba1c_group","hba1c_group<5.7%","PHQ-9 >=10",0.565664815829585,0.0384570543643165
+"hba1c_group","hba1c_group5.7-<6.5%","PHQ-9 >=10",0.249328703775815,0.0282558151502779
+"hba1c_group","hba1c_group>=6.5%","PHQ-9 >=10",0.1850064803946,0.0268459865365719

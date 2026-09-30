@@ -1,0 +1,7 @@
+List of 6
+ $ data_files  : chr [1:7] "DEMO_L" "KIQ_U_L" "DPQ_L" "GHB_L" ...
+ $ exposure    : chr "LBXGH with WTPH2YR"
+ $ outcome     : chr "PHQ-9 total and >=10"
+ $ design      : chr "SDMVPSU, SDMVSTRA, WTPH2YR"
+ $ analysis_n  : int 1536
+ $ adjustment_n: int 1522

@@ -1,0 +1,6 @@
+"estimand","estimate","se","design_df","ci_low","ci_high"
+"Unweighted analytic sample",1536,,15,,
+"Unweighted elevated PHQ-9 count",261,,,,
+"Weighted mean HbA1c (%)",5.76430843860763,0.0389975198363973,15,,
+"Weighted mean PHQ-9",4.88134616795411,0.132984046592239,15,,
+"Weighted prevalence PHQ-9 >=10",0.166399995520469,,15,0.142863826965407,0.192940823542728

@@ -1,0 +1,7 @@
+"model","finite_coefficients","finite_se","residual_df","design_df"
+"cont_unadjusted",TRUE,TRUE,14,15
+"cont_adjusted",TRUE,TRUE,7,15
+"cat_unadjusted",TRUE,TRUE,13,15
+"cat_adjusted",TRUE,TRUE,6,15
+"phq_linear_unadjusted",TRUE,TRUE,14,15
+"phq_linear_adjusted",TRUE,TRUE,7,15
